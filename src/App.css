@@ -1,0 +1,59 @@
+.page-title{
+    display:block !important;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10px;
+    color:white;
+}
+.form-container{
+width: 400px;
+margin: auto;
+color: teal;
+
+background-size: cover;
+}
+.card{
+    
+    width: 590px;
+    height: 200px;
+    color: teal;
+    margin: auto;
+    background-color:teal;
+    
+    }
+  .singleCard{
+    width: 590px;
+    height: 200px;
+    color: teal;
+    margin: auto;
+    
+    }
+    .inputing{
+    width: 590px;
+    height: 200px;
+    
+    }
+    .photo {
+        height: 100px;
+        width: 100px; 
+   }
+    .grid{
+        margin-top: 600px;
+        width: 610px;
+        margin: auto;
+        color: rgb(23, 104, 104);
+     
+        }
+ .post{
+     width: 600px;
+     margin: auto;
+     background-color: white;
+            }
+.createPost{
+    font: outline;
+    color:wheat;
+}
+.mainCard{
+    background-color: red;
+    
+}
